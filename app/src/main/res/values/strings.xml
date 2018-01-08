@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">课堂锁屏</string>
+    <string name="unlock_label">请班主任解锁</string>
+    <string name="unlock_urgency">紧急解锁</string>
+    <string name="btn_start_lock_label">开始锁屏</string>
+    <string name="title_activity_course_list">CourseListActivity</string>
+    <string name="btn_course_list">我的课表</string>
+    <string name="mhomeactivity_btn_join_class">加入班级</string>
+    <string name="login_username_hint">学工号</string>
+    <string name="login_password_hint">密码</string>
+    <string name="login">登录</string>
+</resources>
